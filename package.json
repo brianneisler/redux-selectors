@@ -1,6 +1,6 @@
 {
   "name": "redux-selectors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./index.js",
   "description": "Redux selectors for recomputing data",
   "repository": {
@@ -19,7 +19,7 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "duxtape": "^0.0.1",
+    "duxtape": "^0.0.3",
     "mudash": "^0.0.5"
   },
   "devDependencies": {
